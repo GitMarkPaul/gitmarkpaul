@@ -7,7 +7,7 @@ Developer and Designer
 * 🖥️  See my portfolio at [gitmarkpaul.github.io/portfolio/](https://gitmarkpaul.github.io/portfolio/)
 * ✉️  You can contact me at [markpaulcaneda19@gmail.com](mailto:markpaulcaneda19@gmail.com)
 * 🚀  I'm currently working at [GoCloud Inc.](https://gocloudgroup.com)
-* 🧠  I'm learning all technologies related to dev-tech
+* 🧠  I'm learning all technologies related to web development
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, web developer or dev rel.
 
 ### Skills
