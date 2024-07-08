@@ -4,7 +4,7 @@ Developer and Designer
 -----------------------------
 
 * 🌍  I'm based in Manila, Philippines
-* 🖥️  See my portfolio at [mpcaneda.vercel.app//](https://mpcaneda.vercel.app/)
+* 🖥️  See my portfolio at [mpcaneda.vercel.app](https://mpcaneda.vercel.app/)
 * ✉️  You can contact me at [markpaulcaneda19@gmail.com](mailto:markpaulcaneda19@gmail.com)
 * 🚀  I'm currently working at [GoCloud Inc.](https://gocloudgroup.com)
 * 🧠  I'm learning all technologies related to web development
